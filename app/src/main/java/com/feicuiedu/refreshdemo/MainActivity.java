@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         listView.setAdapter(adapter);
 
         initRefresh();
-
+        //是是是试试
         //下拉刷新的监听
         ptrFrameLayout.setPtrHandler(new PtrDefaultHandler() {
             //刷新
